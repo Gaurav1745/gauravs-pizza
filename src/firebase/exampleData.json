@@ -1,0 +1,128 @@
+{
+  "menu": [
+    {
+      "items": [
+        {
+          "desc": "Classic delight with 100% real mozzarella cheese",
+          "id": 1,
+          "img": "https://th.bing.com/th/id/OIP.kOC4SVEtjR50s0-RBs5vWwHaFX?pid=ImgDet&rs=1",
+          "name": "Margherita",
+          "price": 298
+        },
+        {
+          "desc": "Barbecue chicken for that extra zing",
+          "id": 2,
+          "img": "https://i.ndtvimg.com/i/2015-02/meat-pizza_625x350_41424681507.jpg",
+          "name": "Barbecue Chicken",
+          "price": 298
+        },
+        {
+          "desc": "Delightful combo of grilled mushroom & veggies",
+          "id": 3,
+          "img": "https://th.bing.com/th/id/OIP.APAwoQZIted_8oAChGgZHAHaLG?pid=ImgDet&rs=1",
+          "name": "Farmhouse",
+          "price": 395
+        },
+        {
+          "desc": "Supreme combo of 3 types of chicken",
+          "id": 4,
+          "img": "https://th.bing.com/th/id/OIP.rkwJ-uk-e9Gl5wHEEYyoFAHaLJ?pid=ImgDet&rs=1",
+          "name": "Non Veg Supreme",
+          "price": 570
+        }
+      ],
+      "name": "Best Sellers"
+    },
+    {
+      "items": [
+        {
+          "desc": "Classic delight with 100% real mozzarella cheese",
+          "id": 1,
+          "img": "https://th.bing.com/th/id/OIP.kOC4SVEtjR50s0-RBs5vWwHaFX?pid=ImgDet&rs=1",
+          "name": "Margherita",
+          "price": 298
+        },
+        {
+          "desc": "corn pizza garnished with corn and cheese",
+          "id": 5,
+          "img": "https://buddyspizzaandcafe.com/wp-content/uploads/2021/06/CHEESY-CORN-removebg-preview.png",
+          "name": "corn pizza",
+          "price": 294
+        },
+        {
+          "desc": "onion pizza garnished with cheese and onion",
+          "id": 14,
+          "img": "http://pizzaparadise.in/wp-content/uploads/2019/10/paneer-onion-pizza-mania.png",
+          "name": "onion pizza",
+          "price": 290
+        },
+        {
+          "desc": "capsicum pizza garnished with cheese and capsicum and onin",
+          "id": 6,
+          "img": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/classic-onion-capsicum-pan-personal.dad788ecbd3fcc57366462827e31ee05.1.jpg",
+          "name": "capsicum-onin pizza",
+          "price": 300
+        },
+        {
+          "desc": "Mexican Pizza flavoured with red hot mexican pepper",
+          "id": 7,
+          "img": "https://www.afarmgirlsdabbles.com/wp-content/uploads/2022/11/Taco-Bell-Mexican-Pizza-Copycat36444_s-735x735.jpg",
+          "name": "Mexican pizza",
+          "price": 304
+        }
+        ],
+
+
+      "name": "Veg Pizzas"
+    },
+
+     {
+      "items": [
+        {
+          "desc": "chco lava cake filled with chocklates insise it",
+          "id": 8,
+          "img": "https://sallysbakingaddiction.com/wp-content/uploads/2017/02/chocolate-molten-lava-cakes.jpg",
+          "name": "choco lava cake",
+          "price": 298
+        },
+        {
+          "desc": "Pepsi which is a coldrinks",
+          "id": 9,
+          "img": "https://www.jiomart.com/images/product/600x600/490004176/pepsi-2-l-product-images-o490004176-p490004176-0-202203170742.jpg",
+          "name": "pepsi",
+          "price": 40
+        },
+        {
+          "desc": "Mexican hot pasta garnished and fried with many toppings upon it",
+          "id": 10,
+          "img": "https://www.funfoodfrolic.com/wp-content/uploads/2020/09/Tomato-Pasta-Thumbnail.jpg",
+          "name": "Red sauce pasta",
+          "price": 170
+        },
+        {
+          "desc": "Maggi gets ready in 2 minutes",
+          "id": 11,
+          "img": "https://www.whiskaffair.com/wp-content/uploads/2022/07/Cheesy-Tadka-Maggi-2-3.jpg",
+          "name": "Maggi",
+          "price": 70
+        },
+        {
+          "desc": "Breadstick tossed and enflavoured with garlic and black peper",
+          "id": 12,
+          "img": "https://myfoodstory.com/wp-content/uploads/2020/12/Dominos-Style-Garlic-Breadsticks-4-500x500.jpg",
+          "name": "Breadstick",
+          "price": 140
+        }
+        ],
+
+
+      "name": "desert"
+    }
+
+
+
+
+
+
+  ]
+}

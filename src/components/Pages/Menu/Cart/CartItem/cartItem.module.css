@@ -1,0 +1,48 @@
+.Body {
+	padding: 12px 0;
+	border-bottom: 1px solid black;
+}
+
+.Body:first-of-type {
+	border-top: 1px solid black;
+}
+
+.Description {
+	font-size: small;
+}
+
+.Price {
+	display: inline-block;
+	width: max-content;
+	margin-top: auto;
+	margin-bottom: auto;
+}
+
+.BtnHolder {
+	width: max-content;
+	display: flex !important;
+}
+
+.ItemActionBtn {
+	height: 28px;
+	width: 28px;
+	border-radius: 2px;
+	font-size: 16px;
+	border: none;
+	outline: none !important;
+	background-color: rgba(0, 0, 0, 0.5);
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin: 0 8px;
+	transition: 0.1s;
+}
+
+.ItemActionBtn:hover {
+	background-color: rgba(0, 0, 0, 0.8);
+	color: white;
+}
+
+.Quantity {
+	width: max-content;
+}

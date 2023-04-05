@@ -1,0 +1,92 @@
+.BodyContainer {
+	background-color: rgba(0, 0, 0, 0.7);
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+	top: 0;
+	left: 0;
+	height: 100vh;
+	width: 100vw;
+}
+
+.Logo {
+	height: 200px;
+	position: relative;
+	left: -28px;
+}
+
+.H1 {
+	color: white;
+	font-size: 50px;
+	font-weight: 100;
+	margin: 12px 0;
+}
+
+.H2 {
+	color: white;
+	font-size: 32px;
+	margin-top: 16px;
+	margin: 8px 0;
+}
+
+.LandscapeOverlay {
+	display: none;
+	position: fixed;
+	background-color: black;
+	top: 0;
+	left: 0;
+	z-index: 150;
+}
+
+/* media queries */
+@media (max-width: 992px) {
+	.BodyContainer {
+		background-attachment: initial;
+	}
+	.Logo {
+		height: 150px;
+		left: -24px;
+	}
+	.H1 {
+		font-size: 44px;
+		margin: 8px 0;
+	}
+	.H2 {
+		font-size: 28px;
+		margin: 4px 0;
+	}
+}
+
+@media (max-width: 568px) {
+	.Logo {
+		height: 100px;
+		left: -12px;
+		margin: 12px 0;
+	}
+	.H1 {
+		font-size: 32px;
+		margin: 12px 0;
+	}
+	.H2 {
+		font-size: 18px;
+		margin: 12px 0;
+	}
+}
+
+@media (max-width: 768px) and (orientation: landscape) {
+	.LandscapeOverlay {
+		display: flex;
+	}
+	.LandscapeOverlay::after {
+		color: white;
+		content: "Please Switch to Portrait Mode";
+		height: 100vh;
+		width: 100vw;
+		margin: auto;
+		font-size: xx-large;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		padding-bottom: 40px;
+	}
+}
