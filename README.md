@@ -39,7 +39,7 @@ const firebaseConfig = {
 export default firebaseConfig;
 ```
 
-Data needs to be stored in the following format:
+Data needs to be stored in the following format
 
 ```javascript
 [
