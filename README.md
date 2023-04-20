@@ -39,6 +39,9 @@ An E-Commerce website for ordering Pizza Online
 
 
 
+
+![Screenshot (306)](https://user-images.githubusercontent.com/103983412/233249533-1bf9e42e-90fe-46c2-bb1d-6dc44a126332.png)
+
 ## Firebase Setup
 
 You need to create a firebase configeration file holding the firebase settings in the path `/src/firebase/config.js`. The required format is:
