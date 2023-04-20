@@ -1,6 +1,6 @@
 # Gauravs-pizza
 
-An E-Commerce website for ordering Pizza Online
+An E-Commerce website for ordering Pizza 
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/2bba3c69-b525-44c9-b4ac-7883b15745b3/deploy-status)](https://app.netlify.com/sites/gaurav-pizza/deploys)
 
