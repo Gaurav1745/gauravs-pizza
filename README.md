@@ -19,6 +19,19 @@ An E-Commerce website for ordering Pizza Online
 3. Redux: For State Management
 4. Firebase: As a DataBase
 
+
+# Screen shot of the web application
+
+
+![Screenshot (303)](https://user-images.githubusercontent.com/103983412/233249368-a9d03918-195e-4486-b1a1-fb41c31dda2d.png)
+
+
+
+
+
+![Screenshot (304)](https://user-images.githubusercontent.com/103983412/233249388-8eb1a66a-5042-49da-9e0f-9b8b476373cf.png)
+
+
 ## Firebase Setup
 
 You need to create a firebase configeration file holding the firebase settings in the path `/src/firebase/config.js`. The required format is:
