@@ -1,4 +1,4 @@
-# Gauravs-pizza.
+# Pizza-Man.
 
 An E-Commerce website for ordering Pizza Online
 
