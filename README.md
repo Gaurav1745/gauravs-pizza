@@ -1,4 +1,4 @@
-# Gauravs-pizza
+# Gauravs-pizza.
 
 An E-Commerce website for ordering Pizza Online
 
