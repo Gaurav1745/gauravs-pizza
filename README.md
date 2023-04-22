@@ -61,23 +61,4 @@ const firebaseConfig = {
 export default firebaseConfig;
 ```
 
-Data needs to be stored in the following format:-
-
-```javascript
-[
-	{
-		name: "CATEGORY NAME",
-		items: [
-			{
-				desc: "PIZZA DESCRIPTION",
-				id: "ID",
-				img: "IMAGE LINK",
-				name: "PIZZA NAME",
-				price: 100, // PRICE
-			},
-		],
-	},
-];
-```
-
 
