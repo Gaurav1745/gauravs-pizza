@@ -1,6 +1,6 @@
 # Pizza-Man
 
-A website for ordering Pizza Online.
+A website for ordering your favourite Pizza Online.
 
 
 ## Demo
