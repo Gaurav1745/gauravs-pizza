@@ -80,12 +80,4 @@ Data needs to be stored in the following format:-
 ];
 ```
 
-An example data is given in `/src/firebase/exampleData.json`
 
-## How to Use
-
-To use the project follow the steps given below:
-
-1. Install the necessary modules (`npm install`).
-2. Setup Firebase Project and configuration
-3. Use `npm start` to run the react app
