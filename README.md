@@ -3,7 +3,7 @@
 A website for ordering your favourite Pizza Online.
 
 
-## Demo of the
+## Demo of the project
 
 <div align="center">
     <img src="./readme_img/demo.gif" style="width: 640px" />
