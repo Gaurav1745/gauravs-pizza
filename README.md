@@ -1,4 +1,4 @@
-# Pizza-Man.
+# Pizza-Man
 
 A website for ordering your favourite Pizza Online.
 
